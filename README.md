@@ -17,3 +17,7 @@ Site vitrine statique pour **Le Temps des Mets**, restaurant à Saint-Bonnet-en-
 ## Parcours livré
 
 L’accueil est complété par `experience.html` et `infos.html`, avec une présentation éditoriale de la cuisine de saison, les repères du village, l’itinéraire et les appels à confirmation. Faire confirmer toutes les coordonnées, horaires, menus, logo et photos par l’établissement avant exploitation commerciale. Maquette indépendante.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
