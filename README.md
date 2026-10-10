@@ -14,4 +14,6 @@ Site vitrine statique pour **Le Temps des Mets**, restaurant à Saint-Bonnet-en-
 - GitHub : https://github.com/AMWEBDESIGNER/le-temps-des-mets
 - Pages : https://le-temps-des-mets.pages.dev
 
-Faire confirmer toutes les coordonnées, horaires, menus, logo et photos par l’établissement avant exploitation commerciale. Maquette indépendante.
+## Parcours livré
+
+L’accueil est complété par `experience.html` et `infos.html`, avec une présentation éditoriale de la cuisine de saison, les repères du village, l’itinéraire et les appels à confirmation. Faire confirmer toutes les coordonnées, horaires, menus, logo et photos par l’établissement avant exploitation commerciale. Maquette indépendante.
